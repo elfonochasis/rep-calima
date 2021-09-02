@@ -1,0 +1,41 @@
+{
+  "name": "rep-calima",
+  "title": "ReP. Calima",
+  "description": "<p>Calima es un escenario corto para La Llamada de Cthulhu 7ª edición ambientado en el sur de los EEUU de América durante el verano de 2010 aunque nada impide adaptarlo a otra época o zona tanto de EEUU como del resto del mundo con solo hacer unas pequeñas modificaciones. </p>\n<p>Los investigadores son llamados para indagar sobre el peculiar suicidio de un joven que no había mostrado señales de que podría quitarse la vida. Durante sus pesquisas descubrirán que no es el único que ha muerto de esa forma, sino que ya ha ocurrido en otras ciudades con distintos jóvenes en circunstancias similares. El elemento en común es que asistieron horas antes al concierto de un grupo de rock alternativo de Nueva Orleans, los Bayou Surfers. Los investigadores tendrán que descubrir qué está produciendo esas muertes, en qué forma pueden los Bayou Surfers estar implicados y en el caso de que lo estén, evitar que siga sucediendo. Sus investigaciones pueden llevarles a recorrer varias ciudades de Estados Unidos tras la banda tratando de resolver el misterio antes de que ocurra algo mucho peor.</p>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Test",
+      "entity": "Scene",
+      "name": "test",
+      "path": "packs/test.db",
+      "system": "ratasenlasparedes",
+      "package": "world",
+      "private": false
+    },
+    {
+      "label": "t",
+      "entity": "JournalEntry",
+      "name": "t",
+      "path": "packs/t.db",
+      "system": "ratasenlasparedes",
+      "package": "world",
+      "private": false
+    }
+  ],
+  "system": "ratasenlasparedes",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "Screenshot_5.png",
+  "coreVersion": "0.8.9",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.0.0"
+}
