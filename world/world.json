@@ -9,26 +9,7 @@
   "esmodules": [],
   "styles": [],
   "languages": [],
-  "packs": [
-    {
-      "label": "Test",
-      "entity": "Scene",
-      "name": "test",
-      "path": "packs/test.db",
-      "system": "ratasenlasparedes",
-      "package": "world",
-      "private": false
-    },
-    {
-      "label": "t",
-      "entity": "JournalEntry",
-      "name": "t",
-      "path": "packs/t.db",
-      "system": "ratasenlasparedes",
-      "package": "world",
-      "private": false
-    }
-  ],
+  "packs": [],
   "system": "ratasenlasparedes",
   "dependencies": [],
   "socket": false,
